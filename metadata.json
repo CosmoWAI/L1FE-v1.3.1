@@ -1,0 +1,5 @@
+{
+  "name": "L1FE v1.3.1 visual update",
+  "description": "An admin panel for managing quests, challenges, and other game content for the L1FE app. This dashboard allows administrators to create, update, and delete game content that will be served to the mobile application.",
+  "requestFramePermissions": []
+}
